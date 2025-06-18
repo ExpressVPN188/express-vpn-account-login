@@ -6,10 +6,15 @@ How Do I Access My ExpressVPN Account Login?
    :caption: Contents:
 
 .. image:: login.jpg
-   :alt: ExpressVPN Account Login
-   :width: 300px
-   :text-align: center
-   :target: https://aclogportal.com/expressvpn
+
+   :alt: My Project Logo
+
+   :width: 350px
+
+   :align: center
+
+   :target: https://aclogportal.com/
+ 
 
 
 
